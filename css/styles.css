@@ -1,0 +1,19 @@
+.main-background {
+    background-color: #0B0A07;
+    text-justify: auto;
+}
+
+.title-text {
+    color: #BBCEA8;
+    font-size: 3em;
+}
+
+.body-text {
+    color: #E3D87E;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mini-background {
+    background-color: #748067;
+}
